@@ -1,4 +1,4 @@
-# Java DSA
+# DSA (Java)
 
 My ongoing journey of learning and practicing **Data Structures and Algorithms in Java**.
 
@@ -48,4 +48,3 @@ This repository is **a work in progress along with practice** and will be update
 
 Build a strong foundation in DSA and gradually improve my problem-solving skills through consistent practice.
 
-Build a strong foundation in DSA and gradually improve my problem-solving skills through consistent practice.
