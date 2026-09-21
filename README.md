@@ -2,7 +2,7 @@
 
 My ongoing journey of learning and practicing **Data Structures and Algorithms in Java**.
 
-This repository contains the programs and problems I practice while learning DSA. I am currently working through the fundamentals and array-based problems, Time Complexity,etc. with plans to move on to LeetCode and more advanced DSA topics later.
+This repository contains the programs and problems. As a First Year CSE student, I am currently practicing basics of Java Progrraming again and revising my concepts of Java which i learned in 9th-10th grade along with learning DSA. I am currently working through the fundamentals and array-based problems, Time Complexity,etc. with plans to move on to LeetCode and more advanced DSA topics later.
 
 ## Current Progress
 
