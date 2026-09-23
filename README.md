@@ -26,7 +26,7 @@ This repository contains the programs and problems. As a First Year CSE student,
 * Finding the Minimum Value
 * Finding the Second Maximum Value
 
-## Learning Approach
+## My Current Learning Approach
 
 For each topic, I:
 
