@@ -21,7 +21,6 @@ public class Find_Second_Maximum
     }
 
 
-
     public static void print()
     {
 
